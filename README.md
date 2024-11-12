@@ -1,4 +1,13 @@
-## Hi there 👋
+# Omar Vidaña
+
+## About me
+Computer Science student at Universidad Panamericana, specializing in Computer Graphics and Systems Engineering. My passion for technology ignited at an early age when I first encountered our family's old white Pentium III running Ubuntu. This sparked a curiosity that drove me to delve deeper into the inner workings of computers, and in no time, I was exploring how to create and replicate the magic behind computers and software.
+
+I thrive on spending my free time learning and developing new skills for the sheer joy of it. Challenging myself to create innovative solutions, whether using previous knowledge or acquiring new expertise, is what truly excites me.
+
+I enjoy spending my time with my relatives, my partner, playing some string instruments such as the guitar and the bass, playing racing videogames and solving puzzles.
+
+I embrace every opportunity for self-improvement and welcome feedback when collaborating with a team.
 
 <!--
 **OmVidana/OmVidana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
